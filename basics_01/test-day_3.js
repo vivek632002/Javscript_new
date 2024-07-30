@@ -75,7 +75,7 @@
 
 /*
 
-here in the above code the working prinviple of the comparision operator(<,>,>=,<=) and the equality check operator (==) is completly different
+here in the above code the working principle of the comparision operator(<,>,>=,<=) and the equality check operator (==) is completly different
 when we used the graterthan equality comparison the javascript converted the null into 0(typeconversion)
 */
 
