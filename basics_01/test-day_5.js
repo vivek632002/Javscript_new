@@ -1,5 +1,6 @@
-// Numbers and Math in javaScript
-
+// Date Methods in JavaScript
+  
+// here it takes the Gmt(Greewich Mean Time) as Reference if we do not metion any paticular time
 
 
 // let myDate = new Date();
@@ -43,3 +44,18 @@ console.log(newDate);
   
     *** All the Date method Values are calucalted from the Date(01-01-1970).
 */
+
+
+let d1 = new Date();
+// let s1 = d1.getSeconds();
+let s2 = Date.parse(d1);
+console.log(s2);
+/*
+ => To get the current seconds we use the new date method and we pass .get seconds to that date 
+
+
+*/
+
+// Set Methods :
+
+
